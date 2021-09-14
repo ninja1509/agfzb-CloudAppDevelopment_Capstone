@@ -27,7 +27,7 @@ DEBUG = True
 
 APPEND_SLASH = True
 
-ALLOWED_HOSTS = ["localhost"]
+ALLOWED_HOSTS = ["apic.eu-gb.cf.appdomain.cloud","localhost"]
 
 
 # Application definition
