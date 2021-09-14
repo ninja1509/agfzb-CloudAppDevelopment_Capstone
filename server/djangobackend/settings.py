@@ -27,7 +27,7 @@ DEBUG = True
 
 APPEND_SLASH = True
 
-ALLOWED_HOSTS = ["apic.eu-gb.cf.appdomain.cloud","localhost"]
+ALLOWED_HOSTS = ["apic.eu-gb.mybluemix.net","localhost"]
 
 
 # Application definition
